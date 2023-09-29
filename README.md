@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**Sakhaa-Alsaedi/Sakhaa-Alsaedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    #!/usr/bin/python
+    # -*- coding: utf-8 -*-
+    
+    
+    class SakhaaAlsaedi:
+    
+        def __init__(self):
+            self.name = "Sakhaa Alsaedi"
+            self.live = "Medinah_Jeddah, Saudi Arabia"
+            self.role = "Create Creativity in this world"
+            self.interested = ['Data Analysis', 'AI in Art', 'Bioinformatics', 'Industrial design']
+            self.learning = ['Causl inference in Medicine and semantic knowledge graph']
+            
+    
+        def welcomeMessage(self):
+            print("Welcome to my GitHub profile.")
+    
+    
+    me = SakhaaAlsaedi()
+    me.welcomeMessage()
 -->
