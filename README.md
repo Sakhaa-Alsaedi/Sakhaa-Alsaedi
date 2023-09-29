@@ -23,7 +23,7 @@
     me = SakhaaAlsaedi()
     me.welcomeMessage()
     
-## Skils & Tools 
+## Skills & Tools 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![1](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![2](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
