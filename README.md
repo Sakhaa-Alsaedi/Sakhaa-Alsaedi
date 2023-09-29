@@ -11,7 +11,7 @@
         def __init__(self):
             self.name = "Sakhaa Alsaedi"
             self.live = "Medinah_Jeddah, Saudi Arabia"
-            self.role = "Create Creativity and fun in this world by using AI"
+            self.role = "Create creativity and fun in this world by using AI"
             self.interested = ['Data Analysis', 'AI in Art', 'Bioinformatics', 'Industrial design']
             self.learning = ['Causl inference in Medicine and semantic knowledge graph']
             
